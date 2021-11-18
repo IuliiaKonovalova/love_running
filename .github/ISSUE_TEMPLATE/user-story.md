@@ -12,13 +12,13 @@ In order to **receive benefit** as a **role**, I can **goal / desire**.
 ---
 # Acceptance Criteria:
 
-1. Acceptance Criteria 1:
-1. Acceptance Criteria 2:
-1. Acceptance Criteria 3:
+- Acceptance Criteria 1:
+- Acceptance Criteria 2:
+- Acceptance Criteria 3:
 ---
 # Tasks:
-1. 
-1. 
-1. 
-1. 
-1.
+- Task 1:
+- Task 2:
+- Task 3:
+- Task 4:
+- Task 5:
